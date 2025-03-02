@@ -1,7 +1,8 @@
 Enhanced Embedded OS Simulation
 
 Description
-This project is an enhanced embedded operating system simulation that monitors real-time system parameters such as CPU usage, memory usage, battery status, network activity, and top processes using Python. It features a Tkinter-based graphical user interface (GUI) for real-time visualization and logging.
+
+This project is an enhanced embedded operating system simulation that uses Python to monitor real-time system parameters such as CPU usage, memory usage, battery status, network activity, and top processes. It features a Tkinter-based graphical user interface (GUI) for real-time visualization and logging.
 
 Features
 - Real-time CPU monitoring

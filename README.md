@@ -26,6 +26,7 @@ Prerequisites
 Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
 requirements.txt
+
 tkinter
 matplotlib
 psutil
